@@ -1,0 +1,7 @@
+body, .custom-override-navbar{
+    max-width: 100%;
+    background-image: url("/assets/images/e37fea41-78d9-4b0f-8061-46b946511ced.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

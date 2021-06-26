@@ -1,0 +1,8 @@
+
+  @include media-breakpoint-up(xs) {
+    .example-make-row {
+        font-size:1px;
+        margin-left:10px
+      
+    }
+  }
